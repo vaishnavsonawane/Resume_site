@@ -3,7 +3,9 @@ body {
     padding: 0;
     font-family: sans-serif;
 }
-
+html,body{
+    overflow-x: hidden;
+}
 #header {
     /* background: #585c68 !important; */
     /* background: url(https://img.myloview.com/stickers/green-and-beige-software-web-development-programming-concept-icon-isolated-seamless-pattern-on-blue-background-programming-language-and-program-code-on-screen-laptop-vector-400-264713115.jpg) repeat 0 0; */
